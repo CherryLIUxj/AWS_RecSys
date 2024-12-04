@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+torch
+scikit-learn
+flask
+boto3
+argparse
